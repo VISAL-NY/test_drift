@@ -5948,7 +5948,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 dart_style
 glob
-http
 http_parser
 matcher
 path
@@ -16594,6 +16593,7 @@ May you find forgiveness for yourself and forgive others
 May you share freely, never taking more than you give.
 --------------------------------------------------------------------------------
 sqlite3
+sqlite3_flutter_libs
 
 MIT License
 
